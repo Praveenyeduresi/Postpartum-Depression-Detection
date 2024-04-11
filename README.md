@@ -1,9 +1,9 @@
 Predictive Modelling for Early Detection of Postpartum Depression
 
 ## Overview
-The main aim of this project is to develop a predictive model for Early Detection of Postpartum Depression using data science techniques.
+The main aim of this project is to develop a predictive model for Early Detection of Postpartum Depression using Machine Learning techniques.
 
-##Installation
+## Installation
 To run the code in this repository following dependencies.
 - python
 - numpy
