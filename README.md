@@ -5,7 +5,7 @@ The main aim of this project is to develop a predictive model for Early Detectio
 
 ## Installation
 To run the code in this repository following dependencies.
-- python
+- python 3.10.12 
 - numpy
 - pandas
 - matplotlib
